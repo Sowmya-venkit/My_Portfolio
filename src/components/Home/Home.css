@@ -1,0 +1,106 @@
+.home{
+    /* background-image:linear-gradient(
+        to bottom,
+        rgba(0, 19, 6, 0.5),
+        rgba(0, 10, 10, 0.5)
+      ),url("/public/dg.jpg"); */
+    background-color:rgb(15, 24, 45) ;
+    width:100%;
+    height: 100%;
+    overflow: hidden;
+    padding: 0px 0px 130px 0px;
+
+}
+.options{
+    display:flex;
+    align-items: center;
+    margin: 45px 50px 0px 900px;
+    text-align: left;
+}
+
+
+.a1{
+    margin-right: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.Navbar{
+    display: flex;
+    font-size: 25px;
+    font-weight: bold;
+    align-items: baseline;
+    color: #ffffff;
+    justify-content: flex-end;
+   
+    
+
+}
+.name1{
+    color: rgb(13, 120, 125);
+    font-size: 30px;
+    font-family: emoji;
+  
+
+}
+.content{
+    color: #ffffff;
+    margin: 100px 100px 0px 200px;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    justify-content: center;
+    align-items: center;
+
+}
+.name{
+    margin-right: -100px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center; 
+   
+
+}
+.tab{
+    border :1px solid rgb(13, 102, 106);
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    color:rgb(38, 140, 146);
+    
+}
+.n1{
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(204, 213, 243);
+    padding: 0px 0px 30px 0px;
+
+}
+.content1{
+    width: 500px;
+}
+.footer{
+    color: #ffffff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+.git{
+    width: 30px;
+    height:30px;
+    
+}
+.linkedin{
+    width: 40px;
+    height:40px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.logs{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    cursor: pointer;
+}

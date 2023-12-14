@@ -1,0 +1,47 @@
+.projects{
+    background-color: rgb(15, 24, 45);
+    background-size: 500px;
+    width:100%;
+    height: 100%;
+    padding-top: 25px;
+    color: #ffff;
+
+   
+}
+.pro{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px;
+
+
+}
+.one{
+  margin: 30px;
+  cursor: pointer;
+  width: 400px;
+  height: 300px;
+  padding: 10px 10px 20px 10px;
+
+}
+.one:hover {
+  background-color: rgb(10, 20, 40);
+
+}
+/* In your CSS file, e.g., TechStackRectangle.css */
+
+.tech{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.tech-stack-item {
+  border: 2px solid rgb(6, 88, 93); /* Border style, thickness, and color */
+  border-radius: 10px;
+  height: min-content;
+  padding: 2px; /* Spacing inside each rectangle */
+  margin: 5px; /* Spacing between rectangles */
+  background-color:rgb(6, 88, 93); ;
+  color: rgb(39, 178, 134);
+}

@@ -1,0 +1,55 @@
+.skills {
+  /* background-image:linear-gradient(
+  to bottom,
+  rgba(0, 19, 6, 0.5),
+  rgba(0, 10, 0, 0.5)
+),url("/public/dg.jpg"); */
+background-color: rgb(15, 24, 45);
+width:100%;
+height: 100%;
+min-height: 100vh;
+padding-top: 25px;
+overflow: hidden;
+color: #ffff;
+}
+.logo-size{
+    height: 10vh;
+    width:10vh ;
+}
+.pic{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin:  80px 300px 100px 300px;
+  border-color: aqua;
+  border-radius: 10px;
+} 
+.pics{
+  display: flex;
+  align-items: center;
+  margin: 0px 200px 0px 250px;
+}
+.tools{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px; 
+}
+
+.summary{
+  margin-top: 50px;
+  padding-right: 150px;
+  padding-left: 150px;
+}
+.exp1{
+  margin-top: 50px;
+  padding-right: 150px;
+  padding-left: 150px;
+
+}
+.exp2{
+  margin-top: 50px;
+  padding-right: 150px;
+  padding-left: 150px;
+
+}

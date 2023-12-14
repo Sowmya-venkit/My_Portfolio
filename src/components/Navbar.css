@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    font-size: 25px;
+    font-weight: bold;
+    align-items: baseline;
+    color: #ffffff;
+    justify-content: flex-end;
+    padding-right: 100px;
+
+}
+.opt{
+    display:flex;
+    align-items: center;
+    margin: 45px 0px 0px 1000px;
+    text-align: left;
+    justify-content: space-between;
+
+}
+
+.a2{
+    margin-right: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.deployLink{
+    cursor: pointer;
+}
